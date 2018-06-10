@@ -15,9 +15,10 @@ public class CloseBrowser {
 		//driver.close();
 		//Only closes the current program that you run when you click the run button. 
 		driver.quit();
+		//Closes all the tabs/windows 
 	}
 
 }
 
 
-//git remote add origin https://github.com/MustakilAli/FirstSeleniumProject.git
+
